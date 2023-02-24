@@ -1,3 +1,8 @@
+This is first mini project which I have completed as part of challenge of #100DaysOfCode
+
+Not a UI intensive but more based on functionality for translation using 
+https://libretranslate.de/docs/#/translate/post_translate_file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
